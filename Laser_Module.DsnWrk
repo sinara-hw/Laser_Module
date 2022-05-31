@@ -1,0 +1,14 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Laser_driver_adapter_PCB\Laser_driver_adapter_PCB.PrjPCB
+[Project2]
+ProjectPath=Laser_Module\Laser_Module.PrjPCB
+[Project3]
+ProjectPath=Frequency_REF_Module\Frequency_REF_Module.PrjPCB
+[Project4]
+ProjectPath=Laser_Module_Assy\Laser_Module_Assy.PrjMbd
+[Project5]
+ProjectPath=Micro_DSUB_IDC\Micro_DSUB_IDC.PrjPCB
+[Project6]
+ProjectPath=..\Laser_driver\Driver\LASER_DRIVER_LN_HP.PrjPcb
