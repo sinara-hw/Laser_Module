@@ -116,10 +116,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NDFMTEWY
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Frequency_REF_Module\Design Rule Check - Frequency_REF_Module.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
