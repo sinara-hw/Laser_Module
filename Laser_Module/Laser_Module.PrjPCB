@@ -207,11 +207,12 @@ UniqueID=AF9C92B6-FD6B-4807-B05C-1DCFEA5A9669
 Description=default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=4
+VariationCount=5
 Variation1=Designator=R83|UniqueId=\NJXUXHRM|Kind=1|AlternatePart= 
 Variation2=Designator=R85|UniqueId=\EELMPGVJ|Kind=1|AlternatePart= 
 Variation3=Designator=R88|UniqueId=\YYUSVKRG|Kind=1|AlternatePart= 
 Variation4=Designator=R90|UniqueId=\JQUSQKXY|Kind=1|AlternatePart= 
+Variation5=Designator=IC1|UniqueId=\PHPPZXJS\KKFVFUQL|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]

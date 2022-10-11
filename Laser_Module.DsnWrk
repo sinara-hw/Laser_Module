@@ -12,23 +12,3 @@ ProjectPath=..\Laser_driver\Driver\LASER_DRIVER_LN_HP.PrjPcb
 ProjectPath=Micro_DSUB_IDC\Micro_DSUB_IDC.PrjPCB
 [Project6]
 ProjectPath=Laser_Module_Adapter_PCB\Laser_Module_Adapter_PCB.PrjPCB
-[Project7]
-ProjectPath=..\HV_AMP_8CH\HV_AMP_8CH\HVAMP_8CH.PrjPCB
-[Project8]
-ProjectPath=..\..\..\FMC boards\FMC_DAC_125M_14B_16CHA\Shuttler\FMC_DAC_125M_14B_16CHA\FMC_DAC_125M_14B_16CHA.PrjPCB
-[Project9]
-ProjectPath=..\HV_AMP_8CH_V1\HVAMP_8CH.PrjPCB
-[Project10]
-ProjectPath=..\Kasli\Kasli\Kasli.PrjPCB
-[Project11]
-ProjectPath=..\Kasli_SOC\Kasli-SOC\Kasli-SOC.PrjPcb
-[Project12]
-ProjectPath=..\..\..\MISC\LAMP_SEQUENCER\LAMP_Sequencer_TOP_PCB.PrjPcb
-[Project13]
-ProjectPath=..\..\..\MISC\LAMP_SEQUENCER\LAMP_Sequencer.PrjPcb
-[Project14]
-ProjectPath=..\..\..\OLD\FILTER\PCB_FIlter_Control\PCB_Filter_Control.PrjPcb
-[Project15]
-ProjectPath=..\RFSOC_SAWG\RFSOC_SAWG\RFSOC_SAWG.PrjPCB
-[Project16]
-ProjectPath=..\ZHL_RF_AMP\ZHL_RF_AMP\ZHL_RF_AMP.PrjPcb
