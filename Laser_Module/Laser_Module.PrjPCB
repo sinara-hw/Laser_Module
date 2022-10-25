@@ -206,13 +206,78 @@ UniqueID=AF9C92B6-FD6B-4807-B05C-1DCFEA5A9669
 Description=default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=5
+VariationCount=6
 Variation1=Designator=R83|UniqueId=\NJXUXHRM|Kind=1|AlternatePart= 
 Variation2=Designator=R85|UniqueId=\EELMPGVJ|Kind=1|AlternatePart= 
 Variation3=Designator=R88|UniqueId=\YYUSVKRG|Kind=1|AlternatePart= 
 Variation4=Designator=R90|UniqueId=\JQUSQKXY|Kind=1|AlternatePart= 
 Variation5=Designator=IC1|UniqueId=\PHPPZXJS\KKFVFUQL|Kind=1|AlternatePart= 
-ParamVariationCount=0
+Variation6=Designator=R102A|UniqueId=\NZXOWIVR\TLRDZWKB|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\PS\Documents\Liby\CernLib\CernLib\Resistors.DbLib/Resistors SMD|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=R2512_0R01_1%_1W_75PPM_VISHAY_WSL|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC_VISHAY_WSL2512_0R007-0R5|AltLibLink_IsSameFootprint=False
+ParamVariation1=ParameterName=Case|VariantValue=2512
+ParamDesignator1=R102A
+ParamVariation2=ParameterName=Comment|VariantValue==Value
+ParamDesignator2=R102A
+ParamVariation3=ParameterName=ComponentHeight|VariantValue=0.89mm
+ParamDesignator3=R102A
+ParamVariation4=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator4=R102A
+ParamVariation5=ParameterName=Component Type|VariantValue=Standard
+ParamDesignator5=R102A
+ParamVariation6=ParameterName=CreateDate|VariantValue=17.11.2011
+ParamDesignator6=R102A
+ParamVariation7=ParameterName=Database Table Name|VariantValue=Resistors SMD
+ParamDesignator7=R102A
+ParamVariation8=ParameterName=Description|VariantValue=Resistor - 1%
+ParamDesignator8=R102A
+ParamVariation9=ParameterName=Footprint|VariantValue=RESC_VISHAY_WSL2512_0R007-0R5
+ParamDesignator9=R102A
+ParamVariation10=ParameterName=HelpURL|VariantValue=\\cern.ch\dfs\Applications\Altium\Datasheets\R2512_VISHAY_WSL.pdf
+ParamDesignator10=R102A
+ParamVariation11=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator11=R102A
+ParamVariation12=ParameterName=LatestRevisionDate|VariantValue=23.10.2017
+ParamDesignator12=R102A
+ParamVariation13=ParameterName=Library Reference|VariantValue=R2512_0R01_1%_1W_75PPM_VISHAY_WSL
+ParamDesignator13=R102A
+ParamVariation14=ParameterName=Manufacturer|VariantValue=VISHAY DALE
+ParamDesignator14=R102A
+ParamVariation15=ParameterName=Manufacturer Part Number|VariantValue=WSL2512R0100FEA
+ParamDesignator15=R102A
+ParamVariation16=ParameterName=Mounted|VariantValue=Yes
+ParamDesignator16=R102A
+ParamVariation17=ParameterName=Part Description|VariantValue=Power Metal Strip® Resistor
+ParamDesignator17=R102A
+ParamVariation18=ParameterName=Part Number|VariantValue=R2512_0R1_1%_1W_75PPM_VISHAY_WSL
+ParamDesignator18=R102A
+ParamVariation19=ParameterName=PCB3D|VariantValue= 
+ParamDesignator19=R102A
+ParamVariation20=ParameterName=Pin Count|VariantValue=2
+ParamDesignator20=R102A
+ParamVariation21=ParameterName=Pin Info|VariantValue= 
+ParamDesignator21=R102A
+ParamVariation22=ParameterName=Power|VariantValue=1W
+ParamDesignator22=R102A
+ParamVariation23=ParameterName=PressFit|VariantValue=No
+ParamDesignator23=R102A
+ParamVariation24=ParameterName=Sense|VariantValue=No
+ParamDesignator24=R102A
+ParamVariation25=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator25=R102A
+ParamVariation26=ParameterName=Simulation|VariantValue= 
+ParamDesignator26=R102A
+ParamVariation27=ParameterName=SMD|VariantValue=Yes
+ParamDesignator27=R102A
+ParamVariation28=ParameterName=Socket|VariantValue=No
+ParamDesignator28=R102A
+ParamVariation29=ParameterName=Status|VariantValue=None
+ParamDesignator29=R102A
+ParamVariation30=ParameterName=TC|VariantValue=±75ppm/°C
+ParamDesignator30=R102A
+ParamVariation31=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator31=R102A
+ParamVariation32=ParameterName=Value|VariantValue=0R1
+ParamDesignator32=R102A
+ParamVariationCount=32
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Laser_Module\Design Rule Check - Laser_module.html
@@ -812,36 +877,6 @@ OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=Ansoft Neutral
-OutputName12=Ansoft Neutral (AutoPCB)
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=HyperLynx
-OutputName13=HyperLynx (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=Orcad v7 Capture Design
-OutputName14=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=P-CAD ASCII
-OutputName15=P-CAD ASCII (AutoPCB)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD V16 Schematic Design
-OutputName16=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=SiSoft
-OutputName17=SiSoft (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
